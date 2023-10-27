@@ -1,3 +1,4 @@
+## Teguh
 I am interested in programming, completing projects, and teamwork.
 
 *~~2 years experience in web programming.~~*
@@ -10,6 +11,7 @@ I am interested in programming, completing projects, and teamwork.
 - [X] JQuery
 - [ ] Node JS
 - [X] MariaDB/MySQL
+- [X] SQL Server
 - [ ] MongoDB
 - [X] Git
   
