@@ -1,4 +1,3 @@
-# Teguh Mad Solekhan
 I am interested in programming, completing projects, and teamwork.
 
 *~~2 years experience in web programming.~~*
