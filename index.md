@@ -16,3 +16,5 @@ I am interested in programming, completing projects, and teamwork.
 - [X] Git
   
 If you're interested in me, contact at [teguhmad123@gmail.com](mailto:teguhmad123@gmail.com).
+
+![](https://komarev.com/ghpvc/?username=teguhmad123&style=for-the-badge&color=lightgrey&label=visitors)
